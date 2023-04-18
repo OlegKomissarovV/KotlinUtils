@@ -6,7 +6,7 @@ import org.junit.jupiter.params.provider.MethodSource
 import java.util.stream.Stream
 
 /**
- * Тестовый класс для проверки метода calculateSum класса RussianNumberWords
+ * Тестовый класс для проверки метода getNumberWord класса RussianNumberWords
  */
 class RussianNumberWordsConverterTest {
     private val russianNumberWordsConverter = RussianNumberWordsConverter()
