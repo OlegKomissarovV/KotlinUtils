@@ -155,7 +155,7 @@ To run the tests using Maven, execute the following command in the root director
 1. Clone the project from GitHub:
 
 ```bash
-git clone https://github.com/OlegKomissarovV/KotlinUtils.git`
+git clone https://github.com/OlegKomissarovV/KotlinUtils.git
 ```
 
 2. Navigate to the project directory:
